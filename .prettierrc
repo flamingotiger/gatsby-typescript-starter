@@ -1,4 +1,7 @@
 {
-  "arrowParens": "avoid",
-  "semi": false
+  "singleQuote": true,
+  "parser": "typescript",
+  "semi": true,
+  "useTabs": true,
+  "printWidth": 120
 }
